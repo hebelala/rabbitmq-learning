@@ -26,7 +26,9 @@ docker exec -it d80a bash
 rabbitmqctl list_queues
 ```
 
-## Coding
+## Practices
 
-1. Hello World
+1. [Hello World](https://www.rabbitmq.com/tutorials/tutorial-one-java.html)
+
+2. [Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-java.html)
 
