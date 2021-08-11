@@ -1,4 +1,4 @@
-package com.github.hebelala.rabbitmq.demo;
+package com.github.hebelala.rabbitmq.learning.helloworld;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
