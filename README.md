@@ -31,3 +31,7 @@ rabbitmqctl list_queues
 * [Hello World](https://www.rabbitmq.com/tutorials/tutorial-one-java.html)
 
 * [Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-java.html)
+
+* [Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-python.html)
+
+* [Routing](https://www.rabbitmq.com/tutorials/tutorial-four-python.html)
