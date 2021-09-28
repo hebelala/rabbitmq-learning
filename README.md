@@ -28,7 +28,6 @@ rabbitmqctl list_queues
 
 ## Practices
 
-1. [Hello World](https://www.rabbitmq.com/tutorials/tutorial-one-java.html)
+* [Hello World](https://www.rabbitmq.com/tutorials/tutorial-one-java.html)
 
-2. [Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-java.html)
-
+* [Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-java.html)
