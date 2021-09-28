@@ -12,9 +12,9 @@ public class Worker {
 
 	private final static String QUEUE_NAME = "task_queue";
 
-	public static void main(String[] args) throws IOException, TimeoutException, InterruptedException {
+	public static void main(String[] args) throws IOException, TimeoutException {
 		ConnectionFactory factory = new ConnectionFactory();
-		factory.setHost("localhost");
+		factory.setHost("127.0.0.1");
 		factory.setPort(5672);
 		
 		Connection connection = factory.newConnection();

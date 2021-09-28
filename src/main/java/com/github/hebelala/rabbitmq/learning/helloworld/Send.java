@@ -13,7 +13,7 @@ public class Send {
 
 	public static void main(String[] args) throws IOException, TimeoutException {
 		ConnectionFactory factory = new ConnectionFactory();
-		factory.setHost("localhost");
+		factory.setHost("127.0.0.1");
 		factory.setPort(5672);
 		try (Connection connection = factory.newConnection(); Channel channel = connection.createChannel()) {
 			channel.queueDeclare(QUEUE_NAME, false, false, false, null);
